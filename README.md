@@ -1,2 +1,2 @@
 # CaesarCypher
-Caesar encription alghoritam
+Caesar encription alghoritam from The Odin project - solution
